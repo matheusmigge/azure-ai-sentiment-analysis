@@ -1,0 +1,25 @@
+Lista de sentenças por humor
+
+- Positivas:
+Hoje foi um dia incrível, porque consegui terminar todas as minhas tarefas."
+"Adorei conhecer esse novo restaurante, a comida estava maravilhosa!"
+
+- Negativas:
+"Estou muito frustrado com esse atraso, perdi um compromisso importante."
+"O atendimento foi péssimo, nunca mais volto aqui."
+
+- Neutras:
+"O evento começou às 15h e terminou às 18h."
+"O relatório foi enviado conforme solicitado."
+
+- Mistas (ambíguas):
+"O filme tinha bons efeitos especiais, mas o roteiro deixou a desejar."
+"Gostei da interface do aplicativo, mas ele trava bastante."
+
+- Sarcasmo/Ironia:
+"Que ótimo, mais uma reunião desnecessária para o dia!"
+"Nada como pegar duas horas de trânsito para começar bem o dia."
+
+- Emoções fortes:
+"Estou extremamente animado com essa nova oportunidade!"
+"Isso é inaceitável! Nunca fui tão mal tratado."
