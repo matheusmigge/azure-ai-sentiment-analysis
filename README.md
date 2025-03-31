@@ -41,7 +41,7 @@ Mesmo com os resultados mostrando que há dificuldades em identificar sentimento
 - Analisando o tom e a linguagem utilizados por diferentes veículos de comunicação ao noticiar o mesmo fato, é possível identificar tendências editoriais e possíveis vieses.
 - Ferramenta útil para pesquisas acadêmicas e iniciativas voltadas à transparência na mídia.
 
-# Seguem abaixo, os inputs e outputs deste estudo:
+### Seguem abaixo, os inputs e outputs deste estudo:
 
 ## Sentenças positivas
 
