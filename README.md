@@ -1,4 +1,4 @@
-# azure-ai-sentiment-analysis - Projeto para o Bootcamp Dio Decola Tech 2025
+# Projeto para o Bootcamp Dio Decola Tech 2025
 Pequeno estudo do *Language StudioAnalyze sentiment and opinions (Version 2023-04-01)*, recurso do Azure AI.
 
 ## Procedimento:
